@@ -21,7 +21,7 @@ org_settings:
   webhook_settings:
    activities_webhook:
     enable_activities_webhook: true
-    destiination_url: https://webhooksareawesome.com
+    destination_url: https://webhooksareawesome.com
   server_settings:
     server_url: $FLEET_URL
   secrets:
