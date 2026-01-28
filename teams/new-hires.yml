@@ -37,6 +37,6 @@ team_settings:
     enable_software_inventory: true
 software:
   packages:
-   -path: ../lib/macos/software/zoom.yml
-    self_service: true
-    setup_experience: true
+   - path: ../lib/macos/software/zoom.yml
+     self_service: false
+     setup_experience: true
