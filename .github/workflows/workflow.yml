@@ -1,4 +1,4 @@
-name: 'Apply latest configuration to Fleet-Frederick-GitOps'
+name: 'Apply latest configuration to Fleet'
 
 on:
   push:
